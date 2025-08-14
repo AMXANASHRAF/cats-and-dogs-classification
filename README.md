@@ -1,4 +1,5 @@
-# This repository contains a **Jupyter Notebook** for classifying images of dogs and cats using machine learning.  
+# Markdown
+This repository contains a **Jupyter Notebook** for classifying images of dogs and cats using machine learning.  
 The project demonstrates an **image classification pipeline** using deep learning techniques, model training, and evaluation.
 
 ## Features
