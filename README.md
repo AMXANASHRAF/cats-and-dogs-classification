@@ -15,7 +15,8 @@ The project demonstrates an **image classification pipeline** using deep learnin
 ## Requirements
 
 Install the dependencies before running the notebook:
-!pip install tensorflow keras numpy pandas matplotlib seaborn opencv-python
+
+!pip install tensorflow, keras, numpy, pandas, matplotlib, seaborn, opencv-python
 
 ## Future Improvements
 
