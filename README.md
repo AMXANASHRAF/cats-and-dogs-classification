@@ -16,7 +16,7 @@ The project demonstrates an **image classification pipeline** using deep learnin
 
 This notebook uses the Dogs vs Cats dataset from Kaggle:
 
-https://www.kaggle.com/c/dogs-vs-cats/data
+[https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/datasets/salader/dogsvscats)
 
 ## Requirements
 
